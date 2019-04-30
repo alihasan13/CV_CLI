@@ -1,0 +1,64 @@
+{
+
+    "Contact" : [
+
+        "ALI HASAN",
+        "Phone: 01738-182088",
+        "E-mail: ali.hasan@northsouth.edu",
+        "Address: House 59, Road 14, Block F,Bashundhara R/A"
+    ],
+    "Objective" : [
+        "I am a Fresh graduate from North South University, I have the beginner level skills and knowlegde necessary for the offered post. I hope this opportunity will allow me to further develop my career into the software development field."
+    ],
+    "Github Profile": [
+        "https://github.com/alihasan13"
+    ],
+    "Programming Skill" : [
+        "Programming Language : Python, javaScript, PHP, java.",
+        "Database : MySQL, sql",
+        "Version Control : Git",
+        "Good understanding on Data structures and Algorithm.",
+        "Good understanding on Linux command.",
+        "Can perform unit testing, Aumated testing( Selenium webDriver, Jmeter)."
+
+    ],
+    "Course Projects" : [
+
+        "1. Built a home security robot for senior design course. Link:'https://github.com/alihasan13/Home_Security_Robot'",
+        "2. Worked on a web site where we can rent our personal instruments(camera,game pad). Link: 'https://github.com/alihasan13/CSE_482_RETMAN'",
+        "3. Performed load testing and performance testign as a course project."
+
+    ],
+    "Training" : [
+
+        "1. Worekd with the Microsoft Student Partner community Bangladesh.",
+        "2. Successfully completed LICT Top Up program on .NET"
+    ],
+    "Coursework" : [
+        "Software Engineering",
+        "Software Testing and Quality Assurance",
+        "Cryptography",
+        "Advance Database and ",
+        "Internet and Web Technology."
+    ],
+    "Education" : [
+        "Computer Science and Engineering", 
+        "North South University",
+        "Earned 79% marks"
+
+    ],
+    "Personal Information" : [
+
+        "Fathers name : Md Imran Ali",
+        "Mothers name : Hasina Begum",
+        "Date of Birth : 31st March, 1993",
+        "Gender        : Male",
+        "Nationality   : Bangladeshi"
+    ],
+    "References" : [
+        "Dr. Tanzilur Rahman",
+        "Assistant Professor,NSU",
+        "Email: tanzilur.rahman@northsouth.edu"
+    ]
+
+}

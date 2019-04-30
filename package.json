@@ -1,0 +1,22 @@
+{
+  "name": "alihasan_resume_cli",
+  "version": "1.0.0",
+  "description": "This will display personal info about Ali Hasan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+  },
+  "keywords": [
+    "cli",
+    "resume"
+  ],
+  "author": "Ali Hasan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {}
+}
