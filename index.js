@@ -16,7 +16,7 @@ const resumePrompts = {
     type : "list" ,
     name : "resumeOptions",
     message : chalk.whiteBright.bgRed.bold("Select option's from below...."),
-    choices : [...Object.keys(cv),"Exit", new inquirer.Separator()]  //finds all the option from the info.json file also inclues 'Exit' as an option.
+    choices : [...Object.keys(cv),"Exit", new inquirer.Separator()]  //finds all the option from the info.json file also includes 'Exit' as an option.
 
 
 
@@ -24,7 +24,7 @@ const resumePrompts = {
 
 function main () {
 
-    console.log(chalk.bgYellow.black.bold("Wellcome, I am happy you are reading this. "));
+    console.log(chalk.bgYellow.black.bold("Welcome, I am happy you are reading this. "));
     cvHandler();
 }
 
